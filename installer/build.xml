@@ -6,7 +6,7 @@
 	<!-- set global properties for this build -->
 	<property name="install" location="install"/>
 	<property name="installData" location="${install}/install_data"/>
-	<property name="targetLibraries" location="${installData}/lib"/>
+	<property name="targetLibraries" location="${installData}/jvm/lib"/>
 	<property name="sourceLibraries" location="lib"/>
 	<property name="targetJVM" location="${installData}/jvm"/>
 	<property name="sourceJVM" location="jvm"/>
